@@ -1,16 +1,16 @@
 # NDVI time-series analysis for rubber plantations
 
 ### overview
-Analysis of rubber plantation health and replanting using ndvi-based time series.
+Analysing replanting year of rubber plantation using different spectral indices time series.
 
 ### Data
 - Sentinel-2 optical imagery
 - Multi-year satellite observations
 
 ### Method
-- NDVI calculation
+- Analysing different spectral indices
 - Time-series trend analysis
-- Identification of replanting year from sudden ndvi drop
+- Identification of replanting year from sudden drop  of indices values.
 
 ### Tools
 GEE ·  ArcPro . Excel
